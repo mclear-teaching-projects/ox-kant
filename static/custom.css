@@ -1,0 +1,91 @@
+/* #banner { */
+/*     padding: 85px 0; */
+/* } */
+
+
+#tipue_search_input {
+    padding: 9px 12px 9px 40px;
+    background-position: 15px 13px;
+    margin-top: 1px;
+  }
+
+body {
+    font-family: 'Helvetica',sans-serif;
+    font-size: 17px; 
+    line-height: 1.628571; 
+    color: black;
+
+  }
+
+p {
+
+  padding-bottom: 5px;
+
+}
+
+footer {
+  font-size: 12px;
+}
+
+h1 {
+  font-family: Avenir,sans-serif;
+  font-variant: small-caps;
+
+}
+
+h2 {
+  font-family: Avenir,sans-serif;
+  font-variant: small-caps;
+
+}
+h3 {
+  font-family: Avenir,sans-serif;
+  font-variant: small-caps;
+
+}
+
+/* navbar */
+
+/* Change navbar color */
+.navbar-inverse {
+
+    /* oxford blue */
+    background-color: #002147; 
+    border-color: #002147;
+
+    /* light blue */
+    /* background-color: #39B3DD;  */
+    /* border-color: #39B3DD; */
+
+    /* Yellow */
+    /* background-color: #F7D708; */
+    /* border-color: #F7D708: */
+
+    /* Green */
+    /* background-color: #21B6A8; */
+    /* border-color: #21B6A8; */
+}
+
+/* Collapse divider color */
+.navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form{border-color: white;}
+.navbar-inverse .navbar-nav .open .dropdown-menu .divider{background-color: white;}
+
+/* Change site title color */
+.navbar-inverse .navbar-brand {
+    /* background-color: light gray; */
+    color: #D3D3D3;/* CHANGE COLOR HERE*/
+}
+
+/* Change list items color */
+.navbar-inverse .nav > li > a {
+color: #D3D3D3;/* CHANGE COLOR HERE*/
+}
+
+/* Change toggle colors */
+.navbar-inverse .navbar-toggle{border-color: gray;}
+.navbar-inverse .navbar-toggle:hover,.navbar-inverse .navbar-toggle:focus{background-color: gray;}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: white;
+    border-color: white;
+    color: gray;/* CHANGE COLOR HERE*/
+}
