@@ -7,3 +7,5 @@
 [submodule "pelican-bootstrap3"]
 	path = pelican-bootstrap3
 	url = https://github.com/mclear-teaching-projects/phil101.git
+    ignore = dirty
+
