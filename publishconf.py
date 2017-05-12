@@ -10,13 +10,16 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = ''
+SITEURL = 'http://ox-kant.colinmclear.net'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
+
+# Analytics
+GOOGLE_ANALYTICS = 'UA-30497236-1'
 
 # Following items are often useful when publishing
 

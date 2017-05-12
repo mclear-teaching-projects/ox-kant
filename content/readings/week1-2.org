@@ -1,0 +1,30 @@
+#+TITLE:  Weeks 1 & 2 – The Critical Project
+#+SLUG: week1-2  
+#+DATE: April 26, 2017
+#+TAGS: synthetic judgment, a priori, categories, intuition
+#+CATEGORY:  
+ 
+------
+
+
+
+The aim of these first two weeks is to introduce those students without a
+background in Kant to some of the material which we’ll be discussing in weeks
+3-8. We’ll focus on the overall shape of the Critical project, and aim to get
+clear on the structure of the /Critique of Pure Reason/, and its role in Kant’s
+Critical philosophy. The discussion in these weeks will be aimed primarily at
+those without a background in Kant. Those who are already familiar with the
+material should feel free to attend from week 3 onwards. The reading for Week
+1 is listed below; we'll decide at the first meeting what material to cover in
+Week 2.
+
+** Core Reading
+
+- Kant, /Critique of Pure Reason/, Preface and Introductions, in both editions.
+
+** Recommended Reading
+
+- Gardner, Kant and the Critique of Pure Reason, ch.1
+- Anderson, ‘The Introduction to the Critique’, in Guyer (ed.) Cambridge Companion to Kant’s Critique of Pure Reason.
+- Moore, ‘Kant: ‘The possibility, Scope, and Limits of Metaphysics’, in his The Evolution of Modern Metaphysics
+- Walker, Kant, ch.1

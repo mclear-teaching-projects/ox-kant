@@ -1,0 +1,10 @@
+#+TITLE: week3-cognition
+#+DATE: <2017-05-07 Sun>
+#+AUTHOR: McLear
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+
+* Kant's Mental Economy
+
+* The Theory of Cognition
+

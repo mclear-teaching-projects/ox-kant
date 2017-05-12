@@ -1,0 +1,24 @@
+#+TITLE: Week 3 - Representation, Cognition, & Knowledge
+#+SLUG: week3  
+#+DATE: May 10, 2017
+#+TAGS: cognition, perception, representation, knowledge
+#+CATEGORY:  
+ 
+------
+
+Our discussion this week concerns the various distinctions Kant makes
+between kinds of representation, particularly between intuition, perception,
+and experience. He also has two epistemically charged notions--viz. cognition
+and knowledge. Here we aim to get as clear as we can concerning what all these
+distinctions come to. 
+
+** Core Readings
+- Kant: excerpts from [[file:{filename}/materials/kant_logic_cognition.pdf][/Jäsche Logik/]]; [[file:{filename}/materials/kant_stufenleiter.pdf][/Stufenleiter/]]; [[file:{filename}/materials/kant_canon_knowledge.pdf][Canon]]
+- Kant: [[file:{filename}/materials/kant_prolegomena_8-10.pdf][/Prolegomena/ §§8-10]]; [[file:{filename}/materials/kant_cpj_76-7.pdf][CPJ §§76-7]]
+- Watkins & Willaschek, [[file:{filename}/materials/watkins_cognition.pdf][Kant's Account of Cognition]]
+
+** Recommended Readings
+- Chignell, [[file:{filename}/materials/chignell_justification.pdf][Kant’s Concepts of Justification]]
+- Tolley, [[file:{filename}/materials/tolley_perception.pdf][The distinction between intuition, ‘perception’, and experience in Kant]]
+- Schafer, [[file:{filename}/materials/schafer_cognition.pdf][Kant’s Conception of Cognition and our Knowledge of Things-in-Themselves]]
+- Gomes & Stephenson, [[file:{filename}/materials/gomes_cognition.pdf][On the Relation of Intuition to Cognition]]

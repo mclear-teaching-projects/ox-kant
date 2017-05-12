@@ -1,0 +1,22 @@
+;; -*- mode: emacs-lisp -*-
+
+;; pandoc-mode project settings file
+;; saved on 2016.08.02 00:23
+
+((reference-links . t)
+ (output-dir . "/Users/Roambot/projects/ox-kant/content/materials/handouts/")
+ (mathjax . "")
+ (bibliography "/Users/Roambot/Dropbox/Work/Master.bib")
+ (csl . "/Users/Roambot/.pandoc/styles/chicago-author-date.csl")
+ (number-sections . t)
+ (reference-docx . "/Users/Roambot/.pandoc/pandoc-templates/reference.docx")
+ (standalone . t)
+ (template . "/Users/Roambot/.pandoc/pandoc-templates/tufteII.tex")
+ (latex-engine . "xelatex")
+ (variable
+  (#("mainfont" 0 8
+     (ws-butler-chg chg))
+   . "Minion Pro"))
+ (smart . t)
+ (read . "markdown")
+ (write . "latex"))

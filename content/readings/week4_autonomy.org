@@ -1,0 +1,23 @@
+#+TITLE: Week 4 - The Autonomy of Sense
+#+SLUG: week4
+#+DATE: May 17, 2017
+#+TAGS: intellectualism, intuition, sensibilism, transcendental deduction
+ 
+------
+
+Kant distinguishes between to basic faculties—sensibility and the intellect (or
+understanding & reason). However, a significant and influential swath of Kant
+scholarship nevertheless construes Kant as claiming that basic sensory representations---i.e.
+intuitions---are in part dependent on acts of the intellect for their formation. This week
+we discuss whether, and to what extent, such claims of dependence could be correct.
+
+** Core Readings
+- Kant: [[file:{filename}/materials/kant_aesthetic.pdf][Transcendental Aesthetic]]; [[file:{filename}/materials/kant_deduction.pdf][B-Deduction]]
+- McLear, [[file:{filename}/materials/mclear_unity.pdf][Two Kinds of Unity in the Critique of Pure Reason]]
+
+** Recommended Readings
+- Messina, [[file:{filename}/materials/messina_unity.pdf][Kant on the Unity of Space and the Synthetic Unity of Apperception]]
+- Onof & Schulting, [[file:{filename}/materials/onof_space.pdf][Space as Form of Intuition and as Formal Intuition]]
+- Gomes, [[file:{filename}/materials/gomes_perception.pdf][Naive Realism in Kantian Phrase]]
+- Longuenesse, [[file:{filename}/materials/longuenesse_ch8.pdf][Synthesis Speciosa and Forms of Sensibility]] (ch. 8 of Kant
+  and the Capacity to Judge)

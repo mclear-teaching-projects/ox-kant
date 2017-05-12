@@ -1,0 +1,30 @@
+#+TITLE: Week 5 - Conceptual Representation & Conceptual Content
+#+SLUG: week5
+#+DATE: May 24, 2017
+#+TAGS: conceptualism, content, intuition, perception
+#+STATUS: draft
+ 
+------
+
+Debate about whether, and to what extent, Kant’s view of sensory experience
+construes it as depending on “higher” intellectual forms of representation,
+particularly conceptual representation, often remains somewhat unclear as to
+what conceptual (and non-conceptual) representation is. This week we try to
+figure this out---focusing in particular on both Kant’s explicit statements
+about conceptual representation, and their broader connection to Kant’s
+characterization of intellectual activity. We’ll then go on to look at whether
+it makes sense say that intuition has (non-)conceptual “content” in any relevant
+sense.
+
+** Core Readings
+- Kant: [[file:{filename}/materials/kant_deduction.pdf][B-Deduction]]; excerpts from the [[file:{filename}/materials/kant_jasche_concepts.pdf][/Jäsche Logic/]]; excerpts from [[file:{filename}/materials/kant_anthro_error.pdf][the /Anthropology]]/; intro
+to the [[file:{filename}/materials/kant_dialectic_error.pdf][Dialectic of CPR]]
+- McLear, [[file:{filename}/materials/mclear_content.pdf][Kant and Perceptual Content]]
+
+** Recommended Readings
+- McLear, [[file:{filename}/materials/mclear_acquaintance.pdf][Getting Acquainted with Kant]]
+- McDowell, [[file:{filename}/materials/mcdowell_concepts.pdf][Introduction & Concepts and Intuitions]] (from Mind and World)
+- Allais, [[file:{filename}/materials/allais_content.pdf][Kant, Non-conceptual Content, and the Representation of Space]]
+- Land, [[file:{filename}/materials/land_content.pdf][No Other Use Than in Judgment?: Kant on Concepts and Sensible Synthesis]]
+- Ginsborg, [[file:{filename}/materials/ginsborg_content.pdf][Kant and the Problem of Experience]]
+- Dunlop, [[file:{filename}/materials/dunlop_content.pdf][Kant and Strawson on the Content of Geometrical Concepts]]

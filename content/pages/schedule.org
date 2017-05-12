@@ -1,0 +1,22 @@
+#+title: Schedule
+#+author: Colin McLear
+#+date: 2016-06-03
+#+tags: 
+
+-----
+
+This is a tentative schedule. Check the [[http://ox-kant.colinmclear.net/readings][readings]] page for the most current
+information.
+
+|---------+---------+------------------------------------------------|
+| Week \nbsp\nbsp | Date\nbsp\nbsp\nbsp | Material                                       |
+|---------+---------+------------------------------------------------|
+|       1 | 4/26    | Kant's Project                                 |
+|       2 | 5/3     | Kant's Project (continued)                     |
+|       3 | 5/10    | Representation, Cognition, & Knowledge         |
+|       4 | 5/17    | The Autonomy of Sense                          |
+|       5 | 5/24    | Conceptual Representation & Content            |
+|       6 | 5/31    | Introspection & Inner Sense                    |
+|       7 | 6/7     | Pure Apperception                              |
+|       8 | 6/14    | Apperception, Reflection, & Critical Reasoning |
+|---------+---------+------------------------------------------------|

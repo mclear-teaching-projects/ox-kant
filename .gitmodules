@@ -4,3 +4,6 @@
 [submodule "plugins"]
 	path = plugins
 	url = https://github.com/getpelican/pelican-plugins.git
+[submodule "pelican-bootstrap3"]
+	path = pelican-bootstrap3
+	url = https://github.com/mclear-teaching-projects/phil101.git
