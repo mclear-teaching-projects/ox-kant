@@ -1,0 +1,39 @@
+Emacs initialized in 11.40s 
+
+11:03:33 ~ λ pp
+ 14:21:53 ~ λ pp
+ 17:32:45 ~ λ 
+ 17:38:44 ~/D/W/p/ox-kant/content/readings :master(+0/~11/-0)✘… λ workon ox-kant 
+Makefile  content  develop_server.sh  fabfile.py  output  pelican-bootstrap3  pelican.pid  pelicanconf.py  pelicanconf.pyc  publishconf.py  publishconf.pyc  requirements.txt  srv.pid
+ 17:38:48 (ox-kant) ~/D/Work/projects/ox-kant :master(+0/~11/-0)✘… λ make github
+pelican /Users/roambot/Dropbox/Work/projects/ox-kant/content -o /Users/roambot/Dropbox/Work/projects/ox-kant/output -s /Users/roambot/Dropbox/Work/projects/ox-kant/publishconf.py 
+WARNING: There are 2 items with slug "week5" with lang en: 
+  | /Users/roambot/Dropbox/Work/projects/ox-kant/content/readings/week5_content.org
+  | /Users/roambot/Dropbox/Work/projects/ox-kant/content/readings/week6_innersense.org
+WARNING: There are 2 original (not translated) items with slug "week5": 
+  | /Users/roambot/Dropbox/Work/projects/ox-kant/content/readings/week5_content.org
+  | /Users/roambot/Dropbox/Work/projects/ox-kant/content/readings/week6_innersense.org
+CRITICAL: RuntimeError: File /Users/roambot/Dropbox/Work/projects/ox-kant/output/week5.html is to be overwritten
+make: *** [publish] Error 1
+ 17:38:55 (ox-kant) ~/D/Work/projects/ox-kant :master(+0/~11/-0)✘… λ 
+ 17:39:21 (ox-kant) ~/D/W/p/ox-kant/content/readings :master(+0/~11/-0)✘… λ make github
+make: *** No rule to make target `github'.  Stop.
+ 17:39:23 (ox-kant) ~/D/W/p/ox-kant/content/readings :master(+0/~11/-0)✘… λ ..
+extra  images  materials  notes  pages  readings
+ 17:39:24 (ox-kant) ~/D/W/projects/ox-kant/content :master(+0/~11/-0)✘… λ ..
+Makefile  content  develop_server.sh  fabfile.py  output  pelican-bootstrap3  pelican.pid  pelicanconf.py  pelicanconf.pyc  publishconf.py  publishconf.pyc  requirements.txt  srv.pid
+ 17:39:25 (ox-kant) ~/D/Work/projects/ox-kant :master(+0/~11/-0)✘… λ make github
+pelican /Users/roambot/Dropbox/Work/projects/ox-kant/content -o /Users/roambot/Dropbox/Work/projects/ox-kant/output -s /Users/roambot/Dropbox/Work/projects/ox-kant/publishconf.py 
+Done: Processed 5 articles, 0 drafts, 4 pages and 0 hidden pages in 2.41 seconds.
+ghp-import -m "Generate Pelican site" -b gh-pages /Users/roambot/Dropbox/Work/projects/ox-kant/output
+git push origin gh-pages
+Counting objects: 54, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (21/21), done.
+ Writing objects: 100% (54/54), 12.19 MiB | 77.00 KiB/s, done.
+Total 54 (delta 39), reused 39 (delta 31)
+remote: Resolving deltas: 100% (39/39), completed with 8 local objects.        
+To https://github.com/mclear-teaching-projects/ox-kant.git
+   485574d..a799fe6  gh-pages -> gh-pages
+17:45:45 (ox-kant) ~/D/Work/projects/ox-kant :master(+0/~11/-0)✘… λ 
+ 17:48:46 (ox-kant) ~/D/W/p/ox-kant/content/readings :master(+0/~11/-0)✘… λ 
